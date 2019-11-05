@@ -22,7 +22,7 @@ notesapp-backend starts using following command:
 mvn spring-boot:run
 Go to: http://localhost:8080/api/notes
 
-notesapp-fronted starts using following command:
+notesapp-frontend starts using following command:
 ng serve --open
 Application will run at link: http://localhost:4200
 
