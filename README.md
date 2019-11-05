@@ -15,3 +15,15 @@ Functions presented in this app are:
 - sorting data from list
 - pagination
 - connection with MongoDB
+
+I separated in two folders - backend and frontend app.
+
+notesapp-backend starts using following command:
+mvn spring-boot:run
+Go to: http://localhost:8080/api/notes
+
+notesapp-fronted starts using following command:
+ng serve --open
+Application will run at link: http://localhost:4200
+
+
