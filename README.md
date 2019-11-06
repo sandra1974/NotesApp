@@ -18,11 +18,11 @@ Functions presented in this app are:
 
 I separated in two folders - backend and frontend app.
 
-notesapp-backend starts using following command:
+notesapp-backend starts using command:
 mvn spring-boot:run
 Go to: http://localhost:8080/api/notes
 
-notesapp-frontend starts using following command:
+notesapp-frontend starts using command:
 ng serve --open
 Application will run at link: http://localhost:4200
 
